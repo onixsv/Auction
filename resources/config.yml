@@ -1,0 +1,7 @@
+---
+auction:
+  biddingTime: 40
+  delay: 10
+  allowsDurable: true
+  allowsUsed: true
+...

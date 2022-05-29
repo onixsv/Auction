@@ -1,0 +1,5 @@
+name: Auction
+author: solo
+version: 0.0.2
+main: solo\auction\Auction
+api: 4.0.0
